@@ -31,7 +31,7 @@ Role: Backend Engineer
 Location: India 🇮🇳
 
 Currently Building:
-  - DevMind → AI-powered GitHub PR Review Platform
+  - DevMind
 
 Focus:
   - Backend Engineering
@@ -52,12 +52,6 @@ Learning:
   - LLM Infrastructure
   - Advanced System Design
 
-Ask Me About:
-  - Backend Architecture
-  - REST APIs
-  - Go
-  - Node.js
-  - AI Integration
 ```
 
 ---
