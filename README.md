@@ -182,9 +182,6 @@ Go • FastAPI • React • Redis • PostgreSQL • Docker
 
 `Go (Golang)` • `JavaScript` • `MySQL` • `REST APIs`
 
-Tech Stack
-
-Go (Golang) • JavaScript • MySQL • REST APIs
 
 ---
 
