@@ -1,162 +1,215 @@
 <div align="center">
 
-# Hi 👋 I'm Shashank Gusain
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 80" width="100%">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#headerGrad)" d="M0,40 C360,80 1080,0 1440,40 L1440,0 L0,0 Z"/>
+</svg>
 
-### Backend Engineer • AI Systems • Golang
+# 👋 Hi, I'm Shashank Gusain
 
-Building scalable backend systems, AI-powered developer tools, and distributed applications.
-
-Currently building **DevMind** — an AI-powered GitHub PR Review platform.
-
-<br>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=6EE7F7&center=true&vCenter=true&width=800&height=50&lines=Backend+Engineer;Building+AI-Powered+Developer+Tools;Go+%7C+Node.js+%7C+Python;Distributed+Systems+%7C+Scalable+APIs;Always+Learning+Something+New+🚀"/>
+</a>
 
 <p>
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+Backend Engineer passionate about building scalable backend systems,
+AI-powered developer tools, and high-performance APIs.
 </p>
 
 </div>
 
 ---
 
-# 🚀 What I'm Building
+```yaml
+Role: Backend Engineer
+Location: India 🇮🇳
 
-### DevMind
+Currently Building:
+  - DevMind → AI-powered GitHub PR Review Platform
 
-AI-powered GitHub PR Review Platform
+Focus:
+  - Backend Engineering
+  - AI Developer Tools
+  - Distributed Systems
+  - Scalable APIs
 
-Features
+Tech Stack:
+  - Go
+  - Node.js
+  - Python
+  - PostgreSQL
+  - Redis
+  - Docker
 
-- 🤖 AI Code Reviews
-- 📝 Inline PR Comments
-- ⚡ Streaming AI Responses
-- 🔍 Bug Detection
-- 🧠 Multi-Agent Review Pipeline
-- 🔐 GitHub App Integration
+Learning:
+  - Kubernetes
+  - LLM Infrastructure
+  - Advanced System Design
 
----
-
-# 💼 Experience
-
-### Backend Engineer
-
-- Designing scalable REST APIs
-- Building AI-integrated backend systems
-- Authentication & Authorization
-- Distributed services
-- Cloud deployments
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Go](https://skillicons.dev/icons?i=go)
-![Python](https://skillicons.dev/icons?i=python)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-
-### Backend
-
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
+Ask Me About:
+  - Backend Architecture
+  - REST APIs
+  - Go
+  - Node.js
+  - AI Integration
+```
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Tech Stack
 
-## 🚀 DevMind
+### 💻 Languages
 
-AI-powered GitHub PR Review Platform
-
-**Go • FastAPI • React • Redis • PostgreSQL • Docker**
-
----
-
-## 🤖 AI Backend
-
-LLM-powered backend supporting Gemini and Claude.
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 💳 Coupon Management System
+### ⚙ Backend
 
-Scalable coupon management backend with authentication and analytics.
-
----
-
-## 🌐 Blockchain Marketplace
-
-Full-stack decentralized marketplace built using Solidity and Next.js.
+Node.js • Express • FastAPI • REST APIs • JWT • WebSockets • Drizzle ORM
 
 ---
 
-# 📈 GitHub Analytics
+### 🗄 Databases
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
+PostgreSQL • MySQL • MongoDB • Redis • Qdrant
 
 ---
 
-# 📊 Contribution Graph
+### 🤖 AI
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
+OpenAI • Anthropic • Gemini • LangChain • RAG • Vector Search
 
 ---
 
-# 📚 Currently Learning
+### ☁ Cloud & DevOps
 
-- AI Engineering
-- Kubernetes
-- Distributed Systems
-- System Design
-- LLM Agents
+Docker • AWS EC2 • AWS S3 • GitHub Actions • Linux
+
+---
+
+### 🎨 Frontend
+
+React • Next.js • Tailwind CSS
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 DevMind
+
+> AI-powered GitHub PR Review Platform
+
+- Automated Pull Request Reviews
+- AI Code Suggestions
+- Repository Context Understanding
+- Multi-LLM Support
+- GitHub Webhooks
+- Streaming AI Responses
+
+**Stack**
+
+Go • FastAPI • React • Redis • PostgreSQL • Docker
+
+---
+
+## 📈 Revenue Analytics Dashboard
+
+Built backend services powering advertisement revenue analytics at **Bobble AI**.
+
+---
+
+## 🌐 Full Stack Applications
+
+- Authentication
+- Payment Integration
+- REST APIs
+- Real-time Features
+
+---
+
+# 🧠 Core Competencies
+
+| Area | Skills |
+|------|--------|
+| Backend | REST APIs • Authentication • Database Design |
+| AI | Prompt Engineering • LLM Integration • RAG |
+| Architecture | Microservices • Caching • Event-driven Systems |
+| Databases | PostgreSQL • MongoDB • Redis |
+| Languages | Go • JavaScript • Python • C++ |
+| CS | DSA • OOP • SOLID • System Design |
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
+<p align="center">
 
----
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-link">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 <div align="center">
 
-*"Build things that developers love."*
+> **"Building AI-powered developer tools that make developers more productive."**
+
+</div>
+
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 70" width="100%">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footerGrad)" d="M0,30 C360,0 1080,60 1440,30 L1440,70 L0,70 Z"/>
+</svg>
 
 </div>
