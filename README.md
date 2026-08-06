@@ -160,9 +160,32 @@ Go • FastAPI • React • Redis • PostgreSQL • Docker
 
 ---
 
-## 📈 Revenue Analytics Dashboard
+📈 High-Performance Trading Gateway
 
-Built backend services powering advertisement revenue analytics at **Bobble AI**.
+High-throughput backend services for processing real-time market data and trading workflows with low latency.
+
+✨ Highlights
+Implemented FIX/FAST protocol integration for efficient financial data exchange.
+Built asynchronous event pipelines using Apache Kafka.
+Leveraged Redis for caching and high-speed data access.
+Optimized backend services for low-latency, high-throughput message processing.
+
+Tech Stack
+
+Node.js • Apache Kafka • Redis • FIX/FAST Protocol
+📊 Revenue Analytics Platform (Bobble AI)
+
+Built backend services powering real-time advertisement revenue analytics and reporting dashboards.
+
+✨ Highlights
+Designed and developed REST APIs for analytics dashboards.
+Optimized SQL queries and backend logic to improve performance and response times.
+Processed and managed large-scale advertisement revenue datasets.
+Collaborated closely with frontend and product teams to deliver scalable analytics features.
+
+Tech Stack
+
+Go (Golang) • JavaScript • MySQL • REST APIs
 
 ---
 
