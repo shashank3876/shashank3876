@@ -139,35 +139,7 @@ Ask Me About:
 ![Server-Sent Events](https://img.shields.io/badge/SSE-Server_Sent_Events-10B981?style=flat-square)
 ---
 
-### ⚙ Backend
 
-Node.js • Express • FastAPI • REST APIs • JWT • WebSockets • Drizzle ORM
-
----
-
-### 🗄 Databases
-
-PostgreSQL • MySQL • MongoDB • Redis • Qdrant
-
----
-
-### 🤖 AI
-
-OpenAI • Anthropic • Gemini • LangChain • RAG • Vector Search
-
----
-
-### ☁ Cloud & DevOps
-
-Docker • AWS EC2 • AWS S3 • GitHub Actions • Linux
-
----
-
-### 🎨 Frontend
-
-React • Next.js • Tailwind CSS
-
----
 
 # 🚀 Featured Projects
 
