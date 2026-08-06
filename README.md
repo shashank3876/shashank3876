@@ -14,7 +14,7 @@
 # 👋 Hi, I'm Shashank Gusain
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=6EE7F7&center=true&vCenter=true&width=800&height=50&lines=Backend+Engineer;Building+AI-Powered+Developer+Tools;Go+%7C+Node.js+%7C+Python;Distributed+Systems+%7C+Scalable+APIs;Always+Learning+Something+New+🚀"/>
+
 </a>
 
 <p>
